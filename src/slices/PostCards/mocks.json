@@ -1,0 +1,60 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {},
+		"items": [
+			{
+				"__TYPE__": "GroupItemContent",
+				"value": [
+					[
+						"publicationdate",
+						{
+							"__TYPE__": "FieldContent",
+							"type": "Date",
+							"value": "2018-04-28"
+						}
+					],
+					[
+						"title",
+						{
+							"__TYPE__": "StructuredTextContent",
+							"value": [
+								{
+									"type": "heading2",
+									"content": {
+										"text": "Carbon"
+									}
+								}
+							]
+						}
+					],
+					[
+						"description",
+						{
+							"__TYPE__": "StructuredTextContent",
+							"value": [
+								{
+									"type": "paragraph",
+									"content": {
+										"text": "Aute velit dolor culpa ut ut cillum et incididunt irure dolore Lorem minim minim. Commodo voluptate commodo anim aute incididunt commodo reprehenderit non incididunt eiusmod sit duis fugiat magna dolor. Ut cillum fugiat in id minim id ullamco incididunt minim dolor ex cillum do minim."
+									}
+								}
+							]
+						}
+					],
+					[
+						"link",
+						{
+							"__TYPE__": "LinkContent",
+							"value": {
+								"__TYPE__": "DocumentLink",
+								"id": "mock_document_id"
+							}
+						}
+					]
+				]
+			}
+		]
+	}
+]
